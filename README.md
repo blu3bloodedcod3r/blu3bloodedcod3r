@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blu3bloodedcod3r
+- 👋 Hi, I’m Crystal Aguilar (@blu3bloodedcod3r)
 - 👀 I’m interested in becoming a Back-end developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on work and projects
